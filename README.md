@@ -1,1 +1,2 @@
 # Project-based2
+Week 2 Report: This week, I took a random 200k sample from the dataset, preprocessedit, and created a baseliine CNN model using that sample. Admittidely the accuracy wasn't the best at a (accuracy: 0.3775 - loss: 1.7526 - val_accuracy: 0.3956 - val_loss: 1.6969). However, this serves as a good baseline model to compare the future light-weight model. The main dificulty for this week was trying to figure out why the model performance was sub-optimal.
